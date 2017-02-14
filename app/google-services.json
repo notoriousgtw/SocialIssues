@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853309325781",
+    "firebase_url": "https://social-issues-firebase.firebaseio.com",
+    "project_id": "social-issues-firebase",
+    "storage_bucket": "social-issues-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853309325781:android:b25eb38ad39ae2c0",
+        "android_client_info": {
+          "package_name": "com.notogt.socialissues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853309325781-fl1jafkldbpgpf1v536uppakquf2vphj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5XeAHZ14cKicxyPVYroA631P7EljOSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

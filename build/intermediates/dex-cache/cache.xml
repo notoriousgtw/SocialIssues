@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_5182e3dd095c69de09a51be30b8a4826b828bea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_c02ec763acea4e32374a94f59c884fa676b722de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.2_c7bf7b65178d50e2181bc85c6da8b7e2193c9b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_cfa050f5142fa1012cf55ff1539174a9c15ba56d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_68eb9422330dddf918d82873c1c4f2d1e7f2bb73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_b218b42297bc01b62dd915e87c6f8efd2e77af3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d7cf7832f4be40b972c9d4a366ed815545832604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_b3761a8042cfde6abfb592bb46234da42c51ffad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_ecbc31da9048f8b22f7e80445cf1f6ea4101dc1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_674319ad1e246de8682817ec5ea5af7d5f6e90a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.3.0\5c43618ae2e514637c58474e9e9663c8f054b72f\realm-annotations-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c43618ae2e514637c58474e9e9663c8f054b72f">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-2.3.0_c384936de34c50e5cd2b55f9e41392b04f3b6374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\libs\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\2\MPAndroidChart-v3.0.1_5dcd2c51bf46722ca716a6461fdfb5a67d492056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_0c8557fff38517e39c3c54c6853bb216b305f9be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_aa43ef77d2b0b0eb79fdaa2171366709f19719b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="938394664d2e5901ecc172f54f150ec8df1b2e0c">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4ddc9dd3e74936a48be8f9688f7f65760c203db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_62d7fa690e165319303af49dda4170bd6e4da8fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d483779dc728392fefecb9a9650d01bac9e04d3b">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-2.3.0_41e2026a9db9c3bde8b9ebba47ddc054986f8b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_2c7bbdc18aa7dde614e00b78f60347fdaa5e0f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_6eb5c32882457dd145fd776cc084864e07a40696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bc6e287f5d9459425e4234a18b33e968b729285">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df8fc647eee7edcb42ee96f0b7e1a1ba5c828251\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_d36bbe73cdfa70fe2f4efb02af96fa20a2dc6b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_7d6b8bc0a4ac904d31018d82fc380fbb87e4e936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_c4d9adf6e86e27d38b8a0f98b75ed7c851548793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_4b24d84867dda9806dba108098e01cb6d5ab7b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_a4680313cc260a8ac6ef1e130f468ae2bb004a8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_ffb6d6f884d04f9ef6ff7607082c558d9c0be8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\1013609\AndroidStudioProjects\SocialIssues\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_7834b14041888d827bde6245287ecc197e81e9a9\classes.dex" />
+    </item>
+
+</items>
